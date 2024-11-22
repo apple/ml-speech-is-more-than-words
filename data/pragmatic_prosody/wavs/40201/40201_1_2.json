@@ -1,0 +1,16 @@
+{
+    "example_id": "40201",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40201/40201_1_2.wav",
+    "duration": 2.23,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "fable",
+    "date": "13-07-2024",
+    "sentence": "Is that clear?",
+    "prosody": "Is that _clear_?",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Is that _clear_?' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

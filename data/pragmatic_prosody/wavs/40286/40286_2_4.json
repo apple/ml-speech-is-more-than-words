@@ -1,0 +1,16 @@
+{
+    "example_id": "40286",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40286/40286_2_4.wav",
+    "duration": 2.88,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "nova",
+    "date": "13-07-2024",
+    "sentence": "Do you have any objections?",
+    "prosody": "Do you *HAVE* any *OBJECTIONS*?",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Do you *HAVE* any *OBJECTIONS*?' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

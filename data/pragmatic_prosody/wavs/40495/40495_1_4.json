@@ -1,0 +1,16 @@
+{
+    "example_id": "40495",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40495/40495_1_4.wav",
+    "duration": 2.04,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "nova",
+    "date": "13-07-2024",
+    "sentence": "Finish your homework.",
+    "prosody": "Finish your _homework_.",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Finish your _homework_.' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

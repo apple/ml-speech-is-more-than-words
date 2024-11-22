@@ -1,0 +1,16 @@
+{
+    "example_id": "40466",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40466/40466_2_4.wav",
+    "duration": 3.31,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "nova",
+    "date": "13-07-2024",
+    "sentence": "Could you get the manager?",
+    "prosody": "Could you get the *MANAGER*?",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Could you get the *MANAGER*?' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

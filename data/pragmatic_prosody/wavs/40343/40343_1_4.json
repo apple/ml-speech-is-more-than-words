@@ -1,0 +1,16 @@
+{
+    "example_id": "40343",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40343/40343_1_4.wav",
+    "duration": 2.02,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "nova",
+    "date": "13-07-2024",
+    "sentence": "Do you need help?",
+    "prosody": "Do you _need help_?",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Do you _need_ _help_?' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

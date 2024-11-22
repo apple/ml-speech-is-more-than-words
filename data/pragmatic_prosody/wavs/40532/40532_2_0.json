@@ -1,0 +1,16 @@
+{
+    "example_id": "40532",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40532/40532_2_0.wav",
+    "duration": 3.12,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "alloy",
+    "date": "13-07-2024",
+    "sentence": "Please turn off your phone.",
+    "prosody": "Please *TURN OFF* your phone.",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Please *TURN* *OFF* your phone.' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

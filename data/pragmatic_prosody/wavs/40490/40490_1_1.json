@@ -1,0 +1,16 @@
+{
+    "example_id": "40490",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40490/40490_1_1.wav",
+    "duration": 2.64,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "echo",
+    "date": "13-07-2024",
+    "sentence": "Please see me after class.",
+    "prosody": "_Please_ see me after _class_.",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 '_Please_ see me after _class_.' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

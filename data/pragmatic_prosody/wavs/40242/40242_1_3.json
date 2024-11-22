@@ -1,0 +1,16 @@
+{
+    "example_id": "40242",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40242/40242_1_3.wav",
+    "duration": 2.83,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "onyx",
+    "date": "13-07-2024",
+    "sentence": "It's time to go to bed.",
+    "prosody": "It's _time_ to go to bed.",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'It's _time_ to go to bed.' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

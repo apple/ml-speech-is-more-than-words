@@ -1,0 +1,16 @@
+{
+    "example_id": "40216",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40216/40216_2_3.wav",
+    "duration": 3.24,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "onyx",
+    "date": "13-07-2024",
+    "sentence": "Are you sure about this?",
+    "prosody": "Are you *SURE* about this?",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Are you *SURE* about this?' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

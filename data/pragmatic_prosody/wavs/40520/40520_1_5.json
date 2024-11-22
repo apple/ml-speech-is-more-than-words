@@ -1,0 +1,16 @@
+{
+    "example_id": "40520",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40520/40520_1_5.wav",
+    "duration": 4.68,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "shimmer",
+    "date": "13-07-2024",
+    "sentence": "You need to improve your customer service.",
+    "prosody": "You _need_ to improve your _customer service_.",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'You _need_ to improve your _customer_ _service_.' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

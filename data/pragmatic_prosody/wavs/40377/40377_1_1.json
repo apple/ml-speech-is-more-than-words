@@ -1,0 +1,16 @@
+{
+    "example_id": "40377",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40377/40377_1_1.wav",
+    "duration": 3.12,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "echo",
+    "date": "13-07-2024",
+    "sentence": "Are those your numbers?",
+    "prosody": "Are _those_ your _numbers_?",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Are _those_ your _numbers_?' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

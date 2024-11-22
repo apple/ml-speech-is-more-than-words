@@ -1,0 +1,16 @@
+{
+    "example_id": "40489",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40489/40489_2_0.wav",
+    "duration": 2.71,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "alloy",
+    "date": "13-07-2024",
+    "sentence": "You should take a look at this.",
+    "prosody": "You should *TAKE A LOOK* at *THIS*.",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'You should *TAKE* *A* *LOOK* at *THIS*.' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

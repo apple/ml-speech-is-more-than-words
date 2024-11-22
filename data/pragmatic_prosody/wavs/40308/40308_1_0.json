@@ -1,0 +1,16 @@
+{
+    "example_id": "40308",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40308/40308_1_0.wav",
+    "duration": 3.79,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "alloy",
+    "date": "13-07-2024",
+    "sentence": "You need to come back next week.",
+    "prosody": "You _need_ to come back next week.",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'You _need_ to come back next week.' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

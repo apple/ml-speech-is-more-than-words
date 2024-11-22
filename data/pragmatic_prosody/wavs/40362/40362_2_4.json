@@ -1,0 +1,16 @@
+{
+    "example_id": "40362",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40362/40362_2_4.wav",
+    "duration": 3.65,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "nova",
+    "date": "13-07-2024",
+    "sentence": "Will you attend the town hall meeting?",
+    "prosody": "Will you *ATTEND* the town hall meeting?",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Will you *ATTEND* the town hall meeting?' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

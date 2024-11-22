@@ -1,0 +1,16 @@
+{
+    "example_id": "40445",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40445/40445_2_2.wav",
+    "duration": 3.46,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "fable",
+    "date": "13-07-2024",
+    "sentence": "Let's review the schedule.",
+    "prosody": "Let's *REVIEW* the schedule.",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Let's *REVIEW* the schedule.' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

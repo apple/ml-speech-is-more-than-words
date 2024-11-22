@@ -1,0 +1,16 @@
+{
+    "example_id": "40525",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40525/40525_1_0.wav",
+    "duration": 4.32,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "alloy",
+    "date": "13-07-2024",
+    "sentence": "Please handle the merchandise with care.",
+    "prosody": "Please handle the _merchandise_ with care.",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Please handle the _merchandise_ with care.' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

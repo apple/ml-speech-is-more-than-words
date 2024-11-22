@@ -1,0 +1,16 @@
+{
+    "example_id": "40275",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40275/40275_2_5.wav",
+    "duration": 3.46,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "shimmer",
+    "date": "13-07-2024",
+    "sentence": "Have you rehearsed enough?",
+    "prosody": "Have you *REHEARSED* enough?",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Have you *REHEARSED* enough?' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

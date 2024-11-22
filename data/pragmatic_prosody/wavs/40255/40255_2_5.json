@@ -1,0 +1,16 @@
+{
+    "example_id": "40255",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40255/40255_2_5.wav",
+    "duration": 3.48,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "shimmer",
+    "date": "13-07-2024",
+    "sentence": "Do you need help with that?",
+    "prosody": "Do you *NEED* help with that?!",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Do you *NEED* help with that?!' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

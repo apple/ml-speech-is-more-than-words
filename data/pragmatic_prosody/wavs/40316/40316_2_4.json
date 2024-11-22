@@ -1,0 +1,16 @@
+{
+    "example_id": "40316",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40316/40316_2_4.wav",
+    "duration": 1.92,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "nova",
+    "date": "13-07-2024",
+    "sentence": "I'll be with you shortly.",
+    "prosody": "*I'LL* be with you *SHORTLY*.",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 '*I'LL* be with you *SHORTLY*.' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

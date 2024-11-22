@@ -1,0 +1,16 @@
+{
+    "example_id": "40499",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40499/40499_1_1.wav",
+    "duration": 3.05,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "echo",
+    "date": "13-07-2024",
+    "sentence": "You should try that.",
+    "prosody": "_You_ should try _that_.",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 '_You_ should try _that_.' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

@@ -1,0 +1,16 @@
+{
+    "example_id": "40321",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40321/40321_1_4.wav",
+    "duration": 2.95,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "nova",
+    "date": "13-07-2024",
+    "sentence": "Can I clear your plate?",
+    "prosody": "Can I _clear_ your _plate_?",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Can I _clear_ your _plate_?' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

@@ -1,0 +1,16 @@
+{
+    "example_id": "40501",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40501/40501_2_2.wav",
+    "duration": 3.22,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "fable",
+    "date": "13-07-2024",
+    "sentence": "Let's hang out sometime.",
+    "prosody": "Let's *hang out* sometime.",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Let's *hang* *out* sometime.' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

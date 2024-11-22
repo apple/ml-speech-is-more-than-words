@@ -1,0 +1,16 @@
+{
+    "example_id": "40383",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40383/40383_2_2.wav",
+    "duration": 3.17,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "fable",
+    "date": "13-07-2024",
+    "sentence": "Hustle back on defense.",
+    "prosody": "Hustle back on *DEFENSE*!",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Hustle back on *DEFENSE*!' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

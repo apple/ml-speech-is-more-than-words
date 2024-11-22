@@ -1,0 +1,16 @@
+{
+    "example_id": "40513",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40513/40513_1_4.wav",
+    "duration": 3.91,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "nova",
+    "date": "13-07-2024",
+    "sentence": "You need to follow the instructions.",
+    "prosody": "You _need_ to follow the instructions.",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'You _need_ to follow the instructions.' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

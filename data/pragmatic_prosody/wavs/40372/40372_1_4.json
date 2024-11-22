@@ -1,0 +1,16 @@
+{
+    "example_id": "40372",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40372/40372_1_4.wav",
+    "duration": 2.52,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "nova",
+    "date": "13-07-2024",
+    "sentence": "Could you clarify that point?",
+    "prosody": "Could you _clarify_ that point?",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Could you _clarify_ that point?' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

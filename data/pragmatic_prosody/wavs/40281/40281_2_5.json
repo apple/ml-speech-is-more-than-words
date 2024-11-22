@@ -1,0 +1,16 @@
+{
+    "example_id": "40281",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40281/40281_2_5.wav",
+    "duration": 4.63,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "shimmer",
+    "date": "13-07-2024",
+    "sentence": "Do you understand the charges against you?",
+    "prosody": "Do you *UNDERSTAND* the _charges_ against _you_?",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Do you *UNDERSTAND* the _charges_ against _you_?' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

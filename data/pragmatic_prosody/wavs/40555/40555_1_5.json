@@ -1,0 +1,16 @@
+{
+    "example_id": "40555",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40555/40555_1_5.wav",
+    "duration": 4.87,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "shimmer",
+    "date": "13-07-2024",
+    "sentence": "Please put your bag in the overhead compartment.",
+    "prosody": "Please _put_ your bag in the overhead compartment.",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Please _put_ your bag in the overhead compartment.' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

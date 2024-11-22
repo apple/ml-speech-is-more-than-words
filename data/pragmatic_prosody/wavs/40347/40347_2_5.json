@@ -1,0 +1,16 @@
+{
+    "example_id": "40347",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40347/40347_2_5.wav",
+    "duration": 3.17,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "shimmer",
+    "date": "13-07-2024",
+    "sentence": "Where are you going?",
+    "prosody": "Where *ARE YOU* going?",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Where *ARE* *YOU* going?' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

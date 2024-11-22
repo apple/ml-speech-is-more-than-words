@@ -1,0 +1,16 @@
+{
+    "example_id": "40431",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40431/40431_2_1.wav",
+    "duration": 1.87,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "echo",
+    "date": "13-07-2024",
+    "sentence": "How much is the entrance fee?",
+    "prosody": "How much is the *ENTRANCE* fee?",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'How much is the *ENTRANCE* fee?' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

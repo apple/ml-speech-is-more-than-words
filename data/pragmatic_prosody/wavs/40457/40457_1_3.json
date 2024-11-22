@@ -1,0 +1,16 @@
+{
+    "example_id": "40457",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40457/40457_1_3.wav",
+    "duration": 2.62,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "onyx",
+    "date": "13-07-2024",
+    "sentence": "Hold your position.",
+    "prosody": "Hold your _position_.",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Hold your _position_.' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

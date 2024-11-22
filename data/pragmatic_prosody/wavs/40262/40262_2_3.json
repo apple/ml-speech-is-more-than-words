@@ -1,0 +1,16 @@
+{
+    "example_id": "40262",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40262/40262_2_3.wav",
+    "duration": 3.12,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "onyx",
+    "date": "13-07-2024",
+    "sentence": "What's your problem?",
+    "prosody": "What's your *PROBLEM*?!",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'What's your *PROBLEM*?!' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

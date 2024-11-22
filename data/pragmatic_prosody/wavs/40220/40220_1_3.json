@@ -1,0 +1,16 @@
+{
+    "example_id": "40220",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40220/40220_1_3.wav",
+    "duration": 2.45,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "onyx",
+    "date": "13-07-2024",
+    "sentence": "Is everything okay?",
+    "prosody": "Is _everything_ okay?",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Is _everything_ okay?' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

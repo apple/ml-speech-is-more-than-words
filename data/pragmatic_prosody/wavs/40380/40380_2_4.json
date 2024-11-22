@@ -1,0 +1,16 @@
+{
+    "example_id": "40380",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40380/40380_2_4.wav",
+    "duration": 2.28,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "nova",
+    "date": "13-07-2024",
+    "sentence": "Keep your eyes on the ball.",
+    "prosody": "Keep your *EYES* on the *BALL*.",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Keep your *EYES* on the *BALL*.' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

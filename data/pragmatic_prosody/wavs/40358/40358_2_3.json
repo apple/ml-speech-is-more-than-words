@@ -1,0 +1,16 @@
+{
+    "example_id": "40358",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40358/40358_2_3.wav",
+    "duration": 4.34,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "onyx",
+    "date": "13-07-2024",
+    "sentence": "Have you contacted the local businesses?",
+    "prosody": "Have you *contacted* the local businesses?",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Have you *contacted* the local businesses?' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

@@ -1,0 +1,16 @@
+{
+    "example_id": "40313",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40313/40313_1_0.wav",
+    "duration": 2.52,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "alloy",
+    "date": "13-07-2024",
+    "sentence": "How can I help you?",
+    "prosody": "How _can_ I _help_ you?",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'How _can_ I _help_ you?' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

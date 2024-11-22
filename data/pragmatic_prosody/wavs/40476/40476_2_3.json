@@ -1,0 +1,16 @@
+{
+    "example_id": "40476",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40476/40476_2_3.wav",
+    "duration": 2.88,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "onyx",
+    "date": "13-07-2024",
+    "sentence": "This isn't what I ordered.",
+    "prosody": "This isn't what I *ORDERED*.",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'This isn't what I *ORDERED*.' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

@@ -1,0 +1,16 @@
+{
+    "example_id": "40285",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40285/40285_2_3.wav",
+    "duration": 3.19,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "onyx",
+    "date": "13-07-2024",
+    "sentence": "Can you explain your actions?",
+    "prosody": "Can you *EXPLAIN* your *ACTIONS*?",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Can you *EXPLAIN* your *ACTIONS*?' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

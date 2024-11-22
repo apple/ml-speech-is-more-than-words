@@ -1,0 +1,16 @@
+{
+    "example_id": "40536",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40536/40536_1_4.wav",
+    "duration": 3.46,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "nova",
+    "date": "13-07-2024",
+    "sentence": "You missed the last appointment.",
+    "prosody": "You _missed_ the last appointment.",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'You _missed_ the last appointment.' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

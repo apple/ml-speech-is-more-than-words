@@ -1,0 +1,16 @@
+{
+    "example_id": "40544",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40544/40544_2_0.wav",
+    "duration": 2.11,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "alloy",
+    "date": "13-07-2024",
+    "sentence": "Keep your eye on the ball.",
+    "prosody": "Keep your eye on the *BALL*.",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Keep your eye on the *BALL*.' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

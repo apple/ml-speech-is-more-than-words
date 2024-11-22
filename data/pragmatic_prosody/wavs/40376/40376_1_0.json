@@ -1,0 +1,16 @@
+{
+    "example_id": "40376",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40376/40376_1_0.wav",
+    "duration": 1.92,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "alloy",
+    "date": "13-07-2024",
+    "sentence": "What exactly do you mean?",
+    "prosody": "What _exactly_ do you mean?",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'What _exactly_ do you mean?' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

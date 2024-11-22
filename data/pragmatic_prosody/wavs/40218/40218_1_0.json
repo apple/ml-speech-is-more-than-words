@@ -1,0 +1,16 @@
+{
+    "example_id": "40218",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40218/40218_1_0.wav",
+    "duration": 2.38,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "alloy",
+    "date": "13-07-2024",
+    "sentence": "Is this your best work?",
+    "prosody": "Is this your _best_ work?",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Is this your _best_ work?' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

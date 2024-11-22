@@ -1,0 +1,16 @@
+{
+    "example_id": "40303",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40303/40303_2_4.wav",
+    "duration": 2.06,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "nova",
+    "date": "13-07-2024",
+    "sentence": "I need to draw some blood.",
+    "prosody": "I *NEED* to draw some blood.",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'I *NEED* to draw some blood.' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

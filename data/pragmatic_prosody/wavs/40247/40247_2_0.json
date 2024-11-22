@@ -1,0 +1,16 @@
+{
+    "example_id": "40247",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40247/40247_2_0.wav",
+    "duration": 2.28,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "alloy",
+    "date": "13-07-2024",
+    "sentence": "Can you pick up your toys?",
+    "prosody": "Can you *PICK UP* your toys?",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Can you *PICK* *UP* your toys?' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

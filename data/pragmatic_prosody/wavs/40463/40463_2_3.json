@@ -1,0 +1,16 @@
+{
+    "example_id": "40463",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40463/40463_2_3.wav",
+    "duration": 2.5,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "onyx",
+    "date": "13-07-2024",
+    "sentence": "Stay behind.",
+    "prosody": "Stay *BEHIND*.",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Stay *BEHIND*.' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

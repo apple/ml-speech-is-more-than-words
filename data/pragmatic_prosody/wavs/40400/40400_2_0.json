@@ -1,0 +1,16 @@
+{
+    "example_id": "40400",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40400/40400_2_0.wav",
+    "duration": 4.08,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "alloy",
+    "date": "13-07-2024",
+    "sentence": "Could you explain that in more detail?",
+    "prosody": "Could you *EXPLAIN* that in more *DETAIL*?",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Could you *EXPLAIN* that in more *DETAIL*?' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

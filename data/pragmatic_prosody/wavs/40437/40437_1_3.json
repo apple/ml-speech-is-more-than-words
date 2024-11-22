@@ -1,0 +1,16 @@
+{
+    "example_id": "40437",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40437/40437_1_3.wav",
+    "duration": 2.62,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "onyx",
+    "date": "13-07-2024",
+    "sentence": "Where is the bathroom?",
+    "prosody": "Where is the _bathroom_?",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Where is the _bathroom_?' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

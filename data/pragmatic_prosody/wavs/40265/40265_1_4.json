@@ -1,0 +1,16 @@
+{
+    "example_id": "40265",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40265/40265_1_4.wav",
+    "duration": 2.47,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "nova",
+    "date": "13-07-2024",
+    "sentence": "Are you free this weekend?",
+    "prosody": "Are you _free_ this weekend?",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Are you _free_ this weekend?' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

@@ -1,0 +1,16 @@
+{
+    "example_id": "40307",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40307/40307_1_2.wav",
+    "duration": 3.55,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "fable",
+    "date": "13-07-2024",
+    "sentence": "Have you completed your forms?",
+    "prosody": "Have you _completed_ your forms?",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Have you _completed_ your forms?' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

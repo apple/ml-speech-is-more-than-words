@@ -1,0 +1,16 @@
+{
+    "example_id": "40552",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40552/40552_2_4.wav",
+    "duration": 2.86,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "nova",
+    "date": "13-07-2024",
+    "sentence": "Thanks for your input.",
+    "prosody": "Thanks for your *INPUT*.",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Thanks for your *INPUT*.' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

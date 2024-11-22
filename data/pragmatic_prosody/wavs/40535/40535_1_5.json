@@ -1,0 +1,16 @@
+{
+    "example_id": "40535",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40535/40535_1_5.wav",
+    "duration": 3.84,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "shimmer",
+    "date": "13-07-2024",
+    "sentence": "We need volunteers for cleanup.",
+    "prosody": "We _need_ volunteers for _cleanup_.",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'We _need_ volunteers for _cleanup_.' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

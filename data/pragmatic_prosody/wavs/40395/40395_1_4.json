@@ -1,0 +1,16 @@
+{
+    "example_id": "40395",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40395/40395_1_4.wav",
+    "duration": 2.38,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "nova",
+    "date": "13-07-2024",
+    "sentence": "Stay with your man.",
+    "prosody": "Stay with your _man_.",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Stay with your _man_.' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

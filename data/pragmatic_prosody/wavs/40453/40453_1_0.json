@@ -1,0 +1,16 @@
+{
+    "example_id": "40453",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40453/40453_1_0.wav",
+    "duration": 2.71,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "alloy",
+    "date": "13-07-2024",
+    "sentence": "Stand over there.",
+    "prosody": "Stand _over_ there.",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Stand _over_ there.' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

@@ -1,0 +1,16 @@
+{
+    "example_id": "40531",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40531/40531_1_3.wav",
+    "duration": 2.69,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "onyx",
+    "date": "13-07-2024",
+    "sentence": "That's my seat.",
+    "prosody": "That's _my_ seat.",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'That's _my_ seat.' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

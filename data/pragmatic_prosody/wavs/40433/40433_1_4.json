@@ -1,0 +1,16 @@
+{
+    "example_id": "40433",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40433/40433_1_4.wav",
+    "duration": 2.95,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "nova",
+    "date": "13-07-2024",
+    "sentence": "Where is the check-in counter?",
+    "prosody": "Where is the _check-in_ counter?",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Where is the _check-in_ counter?' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

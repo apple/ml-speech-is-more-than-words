@@ -1,0 +1,16 @@
+{
+    "example_id": "40572",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40572/40572_1_0.wav",
+    "duration": 3.26,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "alloy",
+    "date": "13-07-2024",
+    "sentence": "The service could be better.",
+    "prosody": "_The_ service could be better.",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 '_The_ service could be better.' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

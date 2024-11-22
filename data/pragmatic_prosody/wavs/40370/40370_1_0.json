@@ -1,0 +1,16 @@
+{
+    "example_id": "40370",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40370/40370_1_0.wav",
+    "duration": 4.08,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "alloy",
+    "date": "13-07-2024",
+    "sentence": "Do you have any experience in this field?",
+    "prosody": "Do you _have_ any experience in this _field_?",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Do you _have_ any experience in this _field_?' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

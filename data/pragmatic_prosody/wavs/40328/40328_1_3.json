@@ -1,0 +1,16 @@
+{
+    "example_id": "40328",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40328/40328_1_3.wav",
+    "duration": 2.62,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "onyx",
+    "date": "13-07-2024",
+    "sentence": "Would you like to see our specials?",
+    "prosody": "Would you like to _see_ our specials?",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Would you like to _see_ our specials?' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

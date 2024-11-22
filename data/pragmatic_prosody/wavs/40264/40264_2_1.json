@@ -1,0 +1,16 @@
+{
+    "example_id": "40264",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40264/40264_2_1.wav",
+    "duration": 2.38,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "echo",
+    "date": "13-07-2024",
+    "sentence": "Can you explain this?",
+    "prosody": "Can you *EXPLAIN* this?!",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Can you *EXPLAIN* this?!' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

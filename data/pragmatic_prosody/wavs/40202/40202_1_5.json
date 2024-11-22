@@ -1,0 +1,16 @@
+{
+    "example_id": "40202",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40202/40202_1_5.wav",
+    "duration": 3.82,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "shimmer",
+    "date": "13-07-2024",
+    "sentence": "Your request is being processed.",
+    "prosody": "Your request is being _processed_.",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Your request is being _processed_.' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

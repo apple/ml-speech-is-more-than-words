@@ -1,0 +1,16 @@
+{
+    "example_id": "40371",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40371/40371_1_3.wav",
+    "duration": 3.19,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "onyx",
+    "date": "13-07-2024",
+    "sentence": "Why did you decide on that policy?",
+    "prosody": "Why did you _decide_ on that policy?",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Why did you _decide_ on that policy?' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

@@ -1,0 +1,16 @@
+{
+    "example_id": "40346",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40346/40346_2_4.wav",
+    "duration": 2.06,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "nova",
+    "date": "13-07-2024",
+    "sentence": "Can you let me pass?",
+    "prosody": "Can you *LET ME PASS*?",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Can you *LET* *ME* *PASS*?' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

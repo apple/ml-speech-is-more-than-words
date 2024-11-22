@@ -1,0 +1,16 @@
+{
+    "example_id": "40251",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40251/40251_2_3.wav",
+    "duration": 2.74,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "onyx",
+    "date": "13-07-2024",
+    "sentence": "You need to finish your food.",
+    "prosody": "You need to *FINISH* your food.",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'You need to *FINISH* your food.' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

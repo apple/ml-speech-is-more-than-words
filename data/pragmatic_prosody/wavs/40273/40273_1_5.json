@@ -1,0 +1,16 @@
+{
+    "example_id": "40273",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40273/40273_1_5.wav",
+    "duration": 3.02,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "shimmer",
+    "date": "13-07-2024",
+    "sentence": "That's a good start.",
+    "prosody": "That's a _good_ start.",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'That's a _good_ start.' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

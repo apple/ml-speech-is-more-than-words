@@ -1,0 +1,16 @@
+{
+    "example_id": "40329",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40329/40329_1_3.wav",
+    "duration": 2.81,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "onyx",
+    "date": "13-07-2024",
+    "sentence": "Can you please wait a moment?",
+    "prosody": "Can you please _wait_ a moment?",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Can you please _wait_ a moment?' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

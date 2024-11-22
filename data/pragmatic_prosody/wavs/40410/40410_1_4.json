@@ -1,0 +1,16 @@
+{
+    "example_id": "40410",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40410/40410_1_4.wav",
+    "duration": 2.71,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "nova",
+    "date": "13-07-2024",
+    "sentence": "So, when did you realize this?",
+    "prosody": "So, when did you _realize_ this?",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'So, when did you _realize_ this?' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

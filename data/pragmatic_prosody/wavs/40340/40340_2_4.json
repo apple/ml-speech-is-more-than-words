@@ -1,0 +1,16 @@
+{
+    "example_id": "40340",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40340/40340_2_4.wav",
+    "duration": 3.12,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "nova",
+    "date": "13-07-2024",
+    "sentence": "Is this seat taken?",
+    "prosody": "Is *THIS SEAT* taken?",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Is *THIS* *SEAT* taken?' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

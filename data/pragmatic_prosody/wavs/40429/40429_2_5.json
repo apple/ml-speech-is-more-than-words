@@ -1,0 +1,16 @@
+{
+    "example_id": "40429",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40429/40429_2_5.wav",
+    "duration": 3.41,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "shimmer",
+    "date": "13-07-2024",
+    "sentence": "Where can I catch the bus?",
+    "prosody": "Where can I *CATCH* the bus?",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Where can I *CATCH* the bus?' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

@@ -1,0 +1,16 @@
+{
+    "example_id": "40306",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40306/40306_2_2.wav",
+    "duration": 3.74,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "fable",
+    "date": "13-07-2024",
+    "sentence": "It's important that you relax.",
+    "prosody": "It's *IMPORTANT* that you *RELAX*.",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'It's *IMPORTANT* that you *RELAX*.' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

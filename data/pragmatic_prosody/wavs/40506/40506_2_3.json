@@ -1,0 +1,16 @@
+{
+    "example_id": "40506",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40506/40506_2_3.wav",
+    "duration": 3.5,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "onyx",
+    "date": "13-07-2024",
+    "sentence": "Let's take a short break.",
+    "prosody": "Let's *TAKE* a *SHORT* break.",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Let's *TAKE* a *SHORT* break.' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

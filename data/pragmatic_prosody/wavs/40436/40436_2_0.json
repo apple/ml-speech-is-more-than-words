@@ -1,0 +1,16 @@
+{
+    "example_id": "40436",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40436/40436_2_0.wav",
+    "duration": 2.59,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "alloy",
+    "date": "13-07-2024",
+    "sentence": "Can I see the menu?",
+    "prosody": "Can I see the *MENU*?",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Can I see the *MENU*?' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

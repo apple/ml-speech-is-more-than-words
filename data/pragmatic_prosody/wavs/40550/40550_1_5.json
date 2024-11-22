@@ -1,0 +1,16 @@
+{
+    "example_id": "40550",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40550/40550_1_5.wav",
+    "duration": 3.29,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "shimmer",
+    "date": "13-07-2024",
+    "sentence": "Your post made my day.",
+    "prosody": "Your post _made_ my _day_.",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Your post _made_ my _day_.' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

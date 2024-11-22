@@ -1,0 +1,16 @@
+{
+    "example_id": "40295",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40295/40295_1_3.wav",
+    "duration": 3.46,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "onyx",
+    "date": "13-07-2024",
+    "sentence": "Will you follow court etiquette?",
+    "prosody": "Will you _follow_ court _etiquette_?",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Will you _follow_ court _etiquette_?' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

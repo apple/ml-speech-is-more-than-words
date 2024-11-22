@@ -1,0 +1,16 @@
+{
+    "example_id": "40500",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40500/40500_2_0.wav",
+    "duration": 2.57,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "alloy",
+    "date": "13-07-2024",
+    "sentence": "That was really helpful.",
+    "prosody": "That was *really* helpful.",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'That was *really* helpful.' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

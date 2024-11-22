@@ -1,0 +1,16 @@
+{
+    "example_id": "40245",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40245/40245_1_1.wav",
+    "duration": 2.09,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "echo",
+    "date": "13-07-2024",
+    "sentence": "Can you set the table?",
+    "prosody": "Can you _set_ the table?",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Can you _set_ the table?' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

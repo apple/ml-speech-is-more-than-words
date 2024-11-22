@@ -1,0 +1,16 @@
+{
+    "example_id": "40199",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40199/40199_1_5.wav",
+    "duration": 3.65,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "shimmer",
+    "date": "13-07-2024",
+    "sentence": "I will get back to you shortly.",
+    "prosody": "I will get back to you _shortly_.",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'I will get back to you _shortly_.' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

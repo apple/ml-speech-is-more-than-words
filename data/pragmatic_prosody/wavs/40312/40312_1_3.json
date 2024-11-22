@@ -1,0 +1,16 @@
+{
+    "example_id": "40312",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40312/40312_1_3.wav",
+    "duration": 2.71,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "onyx",
+    "date": "13-07-2024",
+    "sentence": "Do you have a reservation?",
+    "prosody": "Do you _have_ a reservation?",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Do you _have_ a reservation?' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

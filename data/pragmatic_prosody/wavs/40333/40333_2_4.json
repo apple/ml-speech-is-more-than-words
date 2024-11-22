@@ -1,0 +1,16 @@
+{
+    "example_id": "40333",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40333/40333_2_4.wav",
+    "duration": 2.54,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "nova",
+    "date": "13-07-2024",
+    "sentence": "You need to sign here.",
+    "prosody": "You need to *SIGN* here.",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'You need to *SIGN* here.' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

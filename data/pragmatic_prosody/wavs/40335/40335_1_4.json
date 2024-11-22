@@ -1,0 +1,16 @@
+{
+    "example_id": "40335",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40335/40335_1_4.wav",
+    "duration": 3.43,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "nova",
+    "date": "13-07-2024",
+    "sentence": "Your total is $15.99.",
+    "prosody": "Your _total_ is $15.99.",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Your _total_ is $15.99.' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

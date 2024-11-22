@@ -1,0 +1,16 @@
+{
+    "example_id": "40391",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40391/40391_1_1.wav",
+    "duration": 3.34,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "echo",
+    "date": "13-07-2024",
+    "sentence": "Get your head in the game.",
+    "prosody": "Get your _head_ in the game.",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Get your _head_ in the game.' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

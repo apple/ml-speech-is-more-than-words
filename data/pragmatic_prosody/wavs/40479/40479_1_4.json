@@ -1,0 +1,16 @@
+{
+    "example_id": "40479",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40479/40479_1_4.wav",
+    "duration": 1.44,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "nova",
+    "date": "13-07-2024",
+    "sentence": "Can I have some ketchup?",
+    "prosody": "Can I have some _ketchup_?",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Can I have some _ketchup_?' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

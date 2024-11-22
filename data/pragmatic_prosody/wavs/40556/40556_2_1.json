@@ -1,0 +1,16 @@
+{
+    "example_id": "40556",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40556/40556_2_1.wav",
+    "duration": 3.19,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "echo",
+    "date": "13-07-2024",
+    "sentence": "You need to check in by 6 PM.",
+    "prosody": "You *NEED* to check in by 6 PM.",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'You *NEED* to check in by 6 PM.' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

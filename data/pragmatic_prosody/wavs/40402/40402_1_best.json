@@ -1,0 +1,20 @@
+{
+    "best_id": "40402_1_0",
+    "probs": {
+        "angry": 0.003,
+        "calm": 0.66,
+        "disgust": 0.005,
+        "fearful": 0.002,
+        "happy": 0.009,
+        "neutral": 0.298,
+        "sad": 0.016,
+        "surprised": 0.007,
+        "correct_prob": 0.519,
+        "opposite_prob": -0.12
+    },
+    "objective": 0.639,
+    "correct_label": "polite",
+    "opposite_label": "impolite",
+    "whisper_model_version": "large-v3",
+    "whisper_num_beams": 4
+}

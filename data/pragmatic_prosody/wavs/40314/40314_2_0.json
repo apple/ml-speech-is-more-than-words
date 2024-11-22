@@ -1,0 +1,16 @@
+{
+    "example_id": "40314",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40314/40314_2_0.wav",
+    "duration": 3.29,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "alloy",
+    "date": "13-07-2024",
+    "sentence": "Is there anything else you need?",
+    "prosody": "Is there *ANYTHING ELSE* you *NEED*?",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Is there *ANYTHING* *ELSE* you *NEED*?' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

@@ -1,0 +1,16 @@
+{
+    "example_id": "40345",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40345/40345_1_4.wav",
+    "duration": 3.53,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "nova",
+    "date": "13-07-2024",
+    "sentence": "Excuse me, is this your stop?",
+    "prosody": "Excuse me, is this _your stop_?",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Excuse me, is this _your_ _stop_?' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

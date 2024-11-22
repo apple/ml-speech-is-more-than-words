@@ -1,0 +1,16 @@
+{
+    "example_id": "40519",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40519/40519_2_1.wav",
+    "duration": 3.19,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "echo",
+    "date": "13-07-2024",
+    "sentence": "This table needs to be cleaned.",
+    "prosody": "This *TABLE* needs to be *CLEANED*.",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'This *TABLE* needs to be *CLEANED*.' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}
