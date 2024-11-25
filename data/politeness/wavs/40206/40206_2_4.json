@@ -1,0 +1,16 @@
+{
+    "example_id": "40206",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40206/40206_2_4.wav",
+    "duration": 2.4,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "nova",
+    "date": "13-07-2024",
+    "sentence": "I'm here to help you.",
+    "prosody": "I'm *HERE* to help you.",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'I'm *HERE* to help you.' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

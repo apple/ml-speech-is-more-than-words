@@ -1,0 +1,16 @@
+{
+    "example_id": "40258",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40258/40258_2_3.wav",
+    "duration": 1.51,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "onyx",
+    "date": "13-07-2024",
+    "sentence": "Could you repeat that?",
+    "prosody": "Could you *REPEAT* that?!",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Could you *REPEAT* that?!' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

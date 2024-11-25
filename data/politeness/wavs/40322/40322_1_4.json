@@ -1,0 +1,16 @@
+{
+    "example_id": "40322",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40322/40322_1_4.wav",
+    "duration": 2.47,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "nova",
+    "date": "13-07-2024",
+    "sentence": "Can you wait over here?",
+    "prosody": "Can you _wait_ over _here_?",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Can you _wait_ over _here_?' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

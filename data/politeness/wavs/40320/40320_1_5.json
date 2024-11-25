@@ -1,0 +1,16 @@
+{
+    "example_id": "40320",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40320/40320_1_5.wav",
+    "duration": 2.95,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "shimmer",
+    "date": "13-07-2024",
+    "sentence": "Please follow me.",
+    "prosody": "_Please_ follow _me_.",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 '_Please_ follow _me_.' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

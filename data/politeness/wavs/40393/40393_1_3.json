@@ -1,0 +1,16 @@
+{
+    "example_id": "40393",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40393/40393_1_3.wav",
+    "duration": 2.93,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "onyx",
+    "date": "13-07-2024",
+    "sentence": "Pick up the pace.",
+    "prosody": "_Pick up_ the pace.",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 '_Pick_ _up_ the pace.' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

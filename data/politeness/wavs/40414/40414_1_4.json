@@ -1,0 +1,16 @@
+{
+    "example_id": "40414",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40414/40414_1_4.wav",
+    "duration": 3.24,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "nova",
+    "date": "13-07-2024",
+    "sentence": "Please respond when you can.",
+    "prosody": "Please respond when you _can_.",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Please respond when you _can_.' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

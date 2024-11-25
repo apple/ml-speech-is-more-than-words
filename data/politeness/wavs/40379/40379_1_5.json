@@ -1,0 +1,16 @@
+{
+    "example_id": "40379",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40379/40379_1_5.wav",
+    "duration": 3.46,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "shimmer",
+    "date": "13-07-2024",
+    "sentence": "Can you provide an example?",
+    "prosody": "Can you _provide_ an example?",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Can you _provide_ an example?' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

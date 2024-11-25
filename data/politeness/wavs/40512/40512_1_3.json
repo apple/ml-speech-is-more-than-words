@@ -1,0 +1,16 @@
+{
+    "example_id": "40512",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40512/40512_1_3.wav",
+    "duration": 3.58,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "onyx",
+    "date": "13-07-2024",
+    "sentence": "Please take a deep breath.",
+    "prosody": "Please _take_ a _deep_ breath.",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Please _take_ a _deep_ breath.' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

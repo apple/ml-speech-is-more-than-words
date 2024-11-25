@@ -1,0 +1,16 @@
+{
+    "example_id": "40366",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40366/40366_2_1.wav",
+    "duration": 4.18,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "echo",
+    "date": "13-07-2024",
+    "sentence": "Is this venue suitable for the workshop?",
+    "prosody": "Is this *venue* suitable for the workshop?",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Is this *venue* suitable for the workshop?' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

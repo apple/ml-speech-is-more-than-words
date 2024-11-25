@@ -1,0 +1,16 @@
+{
+    "example_id": "40246",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40246/40246_2_5.wav",
+    "duration": 4.1,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "shimmer",
+    "date": "13-07-2024",
+    "sentence": "How many times do I have to tell you?",
+    "prosody": "How many times do I *HAVE* to tell you?",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'How many times do I *HAVE* to tell you?' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

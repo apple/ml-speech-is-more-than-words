@@ -1,0 +1,16 @@
+{
+    "example_id": "40465",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40465/40465_1_3.wav",
+    "duration": 2.45,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "onyx",
+    "date": "13-07-2024",
+    "sentence": "Check your equipment.",
+    "prosody": "Check your _equipment_.",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Check your _equipment_.' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

@@ -1,0 +1,16 @@
+{
+    "example_id": "40404",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40404/40404_1_3.wav",
+    "duration": 4.03,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "onyx",
+    "date": "13-07-2024",
+    "sentence": "Are you certain that's what happened?",
+    "prosody": "Are you _certain_ that's what _happened_?",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Are you _certain_ that's what _happened_?' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

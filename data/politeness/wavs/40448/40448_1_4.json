@@ -1,0 +1,16 @@
+{
+    "example_id": "40448",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40448/40448_1_4.wav",
+    "duration": 3.14,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "nova",
+    "date": "13-07-2024",
+    "sentence": "Can we start the meeting?",
+    "prosody": "Can we start _the_ meeting?",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Can we start _the_ meeting?' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

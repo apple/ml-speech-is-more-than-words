@@ -1,0 +1,16 @@
+{
+    "example_id": "40323",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40323/40323_2_0.wav",
+    "duration": 3.98,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "alloy",
+    "date": "13-07-2024",
+    "sentence": "Would you like anything from the bar?",
+    "prosody": "Would you *LIKE* anything from the *BAR*?",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Would you *LIKE* anything from the *BAR*?' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

@@ -1,0 +1,16 @@
+{
+    "example_id": "40428",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40428/40428_2_4.wav",
+    "duration": 2.28,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "nova",
+    "date": "13-07-2024",
+    "sentence": "Can you recommend a hotel?",
+    "prosody": "Can you *RECOMMEND* a hotel?",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Can you *RECOMMEND* a hotel?' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

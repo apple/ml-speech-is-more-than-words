@@ -1,0 +1,16 @@
+{
+    "example_id": "40332",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40332/40332_2_4.wav",
+    "duration": 2.64,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "nova",
+    "date": "13-07-2024",
+    "sentence": "Would you like a bag?",
+    "prosody": "Would you *LIKE* a bag?",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Would you *LIKE* a bag?' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

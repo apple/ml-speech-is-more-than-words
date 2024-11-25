@@ -1,0 +1,16 @@
+{
+    "example_id": "40311",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40311/40311_2_1.wav",
+    "duration": 3.74,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "echo",
+    "date": "13-07-2024",
+    "sentence": "Could you bring me some water?",
+    "prosody": "Could you *BRING* me some *WATER*?",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Could you *BRING* me some *WATER*?' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

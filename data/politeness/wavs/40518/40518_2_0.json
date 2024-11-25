@@ -1,0 +1,16 @@
+{
+    "example_id": "40518",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40518/40518_2_0.wav",
+    "duration": 3.48,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "alloy",
+    "date": "13-07-2024",
+    "sentence": "The guests are complaining again.",
+    "prosody": "The *GUESTS* are *COMPLAINING* again!",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'The *GUESTS* are *COMPLAINING* again!' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

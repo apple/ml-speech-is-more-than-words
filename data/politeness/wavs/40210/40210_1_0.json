@@ -1,0 +1,16 @@
+{
+    "example_id": "40210",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40210/40210_1_0.wav",
+    "duration": 3.72,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "alloy",
+    "date": "13-07-2024",
+    "sentence": "We are looking into your issue.",
+    "prosody": "We are _looking_ into your issue.",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'We are _looking_ into your issue.' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

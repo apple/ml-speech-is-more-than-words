@@ -1,0 +1,16 @@
+{
+    "example_id": "40502",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40502/40502_2_1.wav",
+    "duration": 3.34,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "echo",
+    "date": "13-07-2024",
+    "sentence": "Let's begin the presentation.",
+    "prosody": "Let's *BEGIN* the presentation.",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Let's *BEGIN* the presentation.' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

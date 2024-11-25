@@ -1,0 +1,16 @@
+{
+    "example_id": "40401",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40401/40401_1_2.wav",
+    "duration": 5.11,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "fable",
+    "date": "13-07-2024",
+    "sentence": "What do you think about the criticism you received?",
+    "prosody": "What do you _think_ about the criticism you _received_?",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'What do you _think_ about the criticism you _received_?' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

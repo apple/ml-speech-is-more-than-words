@@ -1,0 +1,16 @@
+{
+    "example_id": "40350",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40350/40350_1_4.wav",
+    "duration": 3.29,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "nova",
+    "date": "13-07-2024",
+    "sentence": "Can you switch seats with me?",
+    "prosody": "Can you _switch seats_ with me?",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Can you _switch_ _seats_ with me?' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

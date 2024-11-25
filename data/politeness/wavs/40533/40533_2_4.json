@@ -1,0 +1,16 @@
+{
+    "example_id": "40533",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40533/40533_2_4.wav",
+    "duration": 2.59,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "nova",
+    "date": "13-07-2024",
+    "sentence": "There's a meeting at 5 PM.",
+    "prosody": "There's a *MEETING* at 5 PM.",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'There's a *MEETING* at 5 PM.' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

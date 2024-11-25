@@ -1,0 +1,16 @@
+{
+    "example_id": "40235",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40235/40235_1_0.wav",
+    "duration": 3.43,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "alloy",
+    "date": "13-07-2024",
+    "sentence": "Let's review yesterday's lesson.",
+    "prosody": "Let's _review_ yesterday's lesson.",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Let's _review_ yesterday's lesson.' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

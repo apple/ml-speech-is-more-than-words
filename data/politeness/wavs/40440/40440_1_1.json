@@ -1,0 +1,16 @@
+{
+    "example_id": "40440",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40440/40440_1_1.wav",
+    "duration": 3.19,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "echo",
+    "date": "13-07-2024",
+    "sentence": "We need more decorations.",
+    "prosody": "We _need_ more decorations.",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'We _need_ more decorations.' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

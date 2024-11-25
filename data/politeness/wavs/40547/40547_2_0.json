@@ -1,0 +1,16 @@
+{
+    "example_id": "40547",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40547/40547_2_0.wav",
+    "duration": 3.55,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "alloy",
+    "date": "13-07-2024",
+    "sentence": "You handled that question well.",
+    "prosody": "You *HANDLED* that question well.",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'You *HANDLED* that question well.' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

@@ -1,0 +1,16 @@
+{
+    "example_id": "40237",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40237/40237_1_3.wav",
+    "duration": 3.55,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "onyx",
+    "date": "13-07-2024",
+    "sentence": "We need to talk after class.",
+    "prosody": "We _need_ to talk after class.",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'We _need_ to talk after class.' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

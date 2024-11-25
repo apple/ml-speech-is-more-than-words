@@ -1,0 +1,16 @@
+{
+    "example_id": "40222",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40222/40222_2_0.wav",
+    "duration": 2.98,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "alloy",
+    "date": "13-07-2024",
+    "sentence": "This needs to be done.",
+    "prosody": "This *NEEDS* to be done.",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'This *NEEDS* to be done.' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

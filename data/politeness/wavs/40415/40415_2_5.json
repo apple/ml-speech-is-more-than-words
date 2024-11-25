@@ -1,0 +1,16 @@
+{
+    "example_id": "40415",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40415/40415_2_5.wav",
+    "duration": 3.5,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "shimmer",
+    "date": "13-07-2024",
+    "sentence": "Can we discuss this later?",
+    "prosody": "Can we *DISCUSS* this *LATER*?",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Can we *DISCUSS* this *LATER*?' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

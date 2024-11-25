@@ -1,0 +1,16 @@
+{
+    "example_id": "40417",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40417/40417_1_4.wav",
+    "duration": 3.02,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "nova",
+    "date": "13-07-2024",
+    "sentence": "Why didn't you update the document?",
+    "prosody": "Why didn't you _update_ the document?",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Why didn't you _update_ the document?' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

@@ -1,0 +1,16 @@
+{
+    "example_id": "40355",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40355/40355_1_3.wav",
+    "duration": 3.91,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "onyx",
+    "date": "13-07-2024",
+    "sentence": "Do you have the list of volunteers?",
+    "prosody": "Do you _have_ the list of volunteers?",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Do you _have_ the list of volunteers?' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

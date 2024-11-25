@@ -1,0 +1,16 @@
+{
+    "example_id": "40294",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40294/40294_2_5.wav",
+    "duration": 3.79,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "shimmer",
+    "date": "13-07-2024",
+    "sentence": "Can you produce the documents?",
+    "prosody": "Can you *PRODUCE* the _documents_?",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Can you *PRODUCE* the _documents_?' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

@@ -1,0 +1,16 @@
+{
+    "example_id": "40422",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40422/40422_2_0.wav",
+    "duration": 2.9,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "alloy",
+    "date": "13-07-2024",
+    "sentence": "Are you coming to the meeting?",
+    "prosody": "Are you *COMING* to the *MEETING*?",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Are you *COMING* to the *MEETING*?' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

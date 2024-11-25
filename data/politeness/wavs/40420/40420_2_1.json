@@ -1,0 +1,16 @@
+{
+    "example_id": "40420",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40420/40420_2_1.wav",
+    "duration": 3.19,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "echo",
+    "date": "13-07-2024",
+    "sentence": "Do you need any help?",
+    "prosody": "Do you *NEED* any *HELP*?",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Do you *NEED* any *HELP*?' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

@@ -1,0 +1,16 @@
+{
+    "example_id": "40442",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40442/40442_1_4.wav",
+    "duration": 2.66,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "nova",
+    "date": "13-07-2024",
+    "sentence": "Is the AV setup complete?",
+    "prosody": "Is the _AV_ setup complete?",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Is the _AV_ setup complete?' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

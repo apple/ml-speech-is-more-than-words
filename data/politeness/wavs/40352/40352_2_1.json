@@ -1,0 +1,16 @@
+{
+    "example_id": "40352",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40352/40352_2_1.wav",
+    "duration": 2.78,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "echo",
+    "date": "13-07-2024",
+    "sentence": "Can you help me organize the event?",
+    "prosody": "Can you *HELP* me organize the event?",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Can you *HELP* me organize the event?' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

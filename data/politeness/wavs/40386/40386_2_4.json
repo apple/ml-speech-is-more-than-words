@@ -1,0 +1,16 @@
+{
+    "example_id": "40386",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40386/40386_2_4.wav",
+    "duration": 2.57,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "nova",
+    "date": "13-07-2024",
+    "sentence": "Don't give up.",
+    "prosody": "Don't *GIVE UP*.",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Don't *GIVE* *UP*.' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

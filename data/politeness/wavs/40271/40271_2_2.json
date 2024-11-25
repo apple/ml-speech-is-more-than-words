@@ -1,0 +1,16 @@
+{
+    "example_id": "40271",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40271/40271_2_2.wav",
+    "duration": 3.7,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "fable",
+    "date": "13-07-2024",
+    "sentence": "That was an interesting point.",
+    "prosody": "That was an *INTERESTING* point.",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'That was an *INTERESTING* point.' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

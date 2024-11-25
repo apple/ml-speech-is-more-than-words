@@ -1,0 +1,16 @@
+{
+    "example_id": "40359",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40359/40359_2_5.wav",
+    "duration": 3.7,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "shimmer",
+    "date": "13-07-2024",
+    "sentence": "Can we discuss the budget now?",
+    "prosody": "Can we *DISCUSS* the budget now?",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Can we *DISCUSS* the budget now?' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

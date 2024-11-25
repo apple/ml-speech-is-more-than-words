@@ -1,0 +1,16 @@
+{
+    "example_id": "40262",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40262/40262_1_5.wav",
+    "duration": 3.0,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "shimmer",
+    "date": "13-07-2024",
+    "sentence": "What's your problem?",
+    "prosody": "What's your _problem_?",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'What's your _problem_?' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

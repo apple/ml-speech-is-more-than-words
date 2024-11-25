@@ -1,0 +1,16 @@
+{
+    "example_id": "40231",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40231/40231_2_1.wav",
+    "duration": 3.29,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "echo",
+    "date": "13-07-2024",
+    "sentence": "Did you complete your homework?",
+    "prosody": "Did you *COMPLETE* your homework?",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Did you *COMPLETE* your homework?' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

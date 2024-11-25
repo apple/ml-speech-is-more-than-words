@@ -1,0 +1,16 @@
+{
+    "example_id": "40421",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40421/40421_1_3.wav",
+    "duration": 3.29,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "onyx",
+    "date": "13-07-2024",
+    "sentence": "What is your status on that task?",
+    "prosody": "What is your _status_ on that task?",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'What is your _status_ on that task?' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

@@ -1,0 +1,16 @@
+{
+    "example_id": "40470",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40470/40470_1_3.wav",
+    "duration": 3.43,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "onyx",
+    "date": "13-07-2024",
+    "sentence": "Could you refill my water?",
+    "prosody": "Could you refill my _water_?",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Could you refill my _water_?' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

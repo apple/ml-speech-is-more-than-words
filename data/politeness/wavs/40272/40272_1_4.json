@@ -1,0 +1,16 @@
+{
+    "example_id": "40272",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40272/40272_1_4.wav",
+    "duration": 3.6,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "nova",
+    "date": "13-07-2024",
+    "sentence": "Could you repeat the question?",
+    "prosody": "Could you _repeat_ the question?",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Could you _repeat_ the question?' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

@@ -1,0 +1,16 @@
+{
+    "example_id": "40217",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40217/40217_1_3.wav",
+    "duration": 1.7,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "onyx",
+    "date": "13-07-2024",
+    "sentence": "Can we talk?",
+    "prosody": "Can we _talk_?",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Can we _talk_?' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

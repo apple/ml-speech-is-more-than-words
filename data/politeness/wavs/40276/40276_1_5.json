@@ -1,0 +1,16 @@
+{
+    "example_id": "40276",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40276/40276_1_5.wav",
+    "duration": 3.84,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "shimmer",
+    "date": "13-07-2024",
+    "sentence": "Try to engage with the audience.",
+    "prosody": "Try to _engage_ with the audience.",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Try to _engage_ with the audience.' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

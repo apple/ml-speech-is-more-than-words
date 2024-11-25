@@ -1,0 +1,16 @@
+{
+    "example_id": "40405",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40405/40405_1_4.wav",
+    "duration": 3.62,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "nova",
+    "date": "13-07-2024",
+    "sentence": "Have you considered the other options?",
+    "prosody": "Have you _considered_ the other _options_?",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Have you _considered_ the other _options_?' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

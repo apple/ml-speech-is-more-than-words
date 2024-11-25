@@ -1,0 +1,16 @@
+{
+    "example_id": "40503",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40503/40503_2_5.wav",
+    "duration": 3.58,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "shimmer",
+    "date": "13-07-2024",
+    "sentence": "I hope you enjoy the speech.",
+    "prosody": "I *HOPE* you enjoy the speech.",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'I *HOPE* you enjoy the speech.' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

@@ -1,0 +1,16 @@
+{
+    "example_id": "40478",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40478/40478_1_5.wav",
+    "duration": 3.17,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "shimmer",
+    "date": "13-07-2024",
+    "sentence": "Where is the restroom?",
+    "prosody": "Where is the _restroom_?",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Where is the _restroom_?' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

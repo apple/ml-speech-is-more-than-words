@@ -1,0 +1,16 @@
+{
+    "example_id": "40267",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40267/40267_1_3.wav",
+    "duration": 3.5,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "onyx",
+    "date": "13-07-2024",
+    "sentence": "Please look at the audience.",
+    "prosody": "Please _look_ at the audience.",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Please _look_ at the audience.' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

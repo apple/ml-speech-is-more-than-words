@@ -1,0 +1,16 @@
+{
+    "example_id": "40545",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40545/40545_2_4.wav",
+    "duration": 4.1,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "nova",
+    "date": "13-07-2024",
+    "sentence": "Your performance was quite interesting.",
+    "prosody": "Your performance was *QUITE* interesting.",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Your performance was *QUITE* interesting.' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

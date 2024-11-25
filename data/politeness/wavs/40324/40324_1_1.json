@@ -1,0 +1,16 @@
+{
+    "example_id": "40324",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40324/40324_1_1.wav",
+    "duration": 3.62,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "echo",
+    "date": "13-07-2024",
+    "sentence": "Can you help me find this item?",
+    "prosody": "Can you _help_ me find _this_ item?",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Can you _help_ me find _this_ item?' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

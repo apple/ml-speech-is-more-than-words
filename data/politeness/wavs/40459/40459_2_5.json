@@ -1,0 +1,16 @@
+{
+    "example_id": "40459",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40459/40459_2_5.wav",
+    "duration": 2.88,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "shimmer",
+    "date": "13-07-2024",
+    "sentence": "Follow the orders.",
+    "prosody": "Follow *THE* orders!",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Follow *THE* orders!' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

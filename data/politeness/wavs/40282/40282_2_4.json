@@ -1,0 +1,16 @@
+{
+    "example_id": "40282",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40282/40282_2_4.wav",
+    "duration": 2.88,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "nova",
+    "date": "13-07-2024",
+    "sentence": "Please present your evidence.",
+    "prosody": "Please *PRESENT* your *EVIDENCE*.",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Please *PRESENT* your *EVIDENCE*.' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

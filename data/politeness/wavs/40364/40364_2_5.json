@@ -1,0 +1,16 @@
+{
+    "example_id": "40364",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40364/40364_2_5.wav",
+    "duration": 3.91,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "shimmer",
+    "date": "13-07-2024",
+    "sentence": "Do we have enough chairs for the guests?",
+    "prosody": "Do we *have* enough chairs for the guests?",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Do we *have* enough chairs for the guests?' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

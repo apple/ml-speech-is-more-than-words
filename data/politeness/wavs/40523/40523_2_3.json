@@ -1,0 +1,16 @@
+{
+    "example_id": "40523",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40523/40523_2_3.wav",
+    "duration": 3.19,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "onyx",
+    "date": "13-07-2024",
+    "sentence": "Let me see what I can do.",
+    "prosody": "Let me see what *I* can do.",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Let me see what *I* can do.' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

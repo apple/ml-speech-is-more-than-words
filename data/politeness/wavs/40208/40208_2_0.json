@@ -1,0 +1,16 @@
+{
+    "example_id": "40208",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40208/40208_2_0.wav",
+    "duration": 3.53,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "alloy",
+    "date": "13-07-2024",
+    "sentence": "Thank you for your patience.",
+    "prosody": "Thank you for your *PATIENCE*.",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Thank you for your *PATIENCE*.' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

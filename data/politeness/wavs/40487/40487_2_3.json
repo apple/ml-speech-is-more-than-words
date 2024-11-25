@@ -1,0 +1,16 @@
+{
+    "example_id": "40487",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40487/40487_2_3.wav",
+    "duration": 3.31,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "onyx",
+    "date": "13-07-2024",
+    "sentence": "That's an interesting approach.",
+    "prosody": "*THAT'S* an *INTERESTING* approach.",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 '*THAT'S* an *INTERESTING* approach.' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

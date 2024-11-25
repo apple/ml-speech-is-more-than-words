@@ -1,0 +1,16 @@
+{
+    "example_id": "40521",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40521/40521_2_4.wav",
+    "duration": 3.84,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "nova",
+    "date": "13-07-2024",
+    "sentence": "That's not how it should be done.",
+    "prosody": "*THAT'S* not how it should be *DONE*.",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 '*THAT'S* not how it should be *DONE*.' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

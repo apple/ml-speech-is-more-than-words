@@ -1,0 +1,16 @@
+{
+    "example_id": "40559",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40559/40559_1_5.wav",
+    "duration": 2.95,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "shimmer",
+    "date": "13-07-2024",
+    "sentence": "Boarding begins now.",
+    "prosody": "Boarding _begins_ now.",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Boarding _begins_ now.' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

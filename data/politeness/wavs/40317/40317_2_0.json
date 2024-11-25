@@ -1,0 +1,16 @@
+{
+    "example_id": "40317",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40317/40317_2_0.wav",
+    "duration": 3.77,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "alloy",
+    "date": "13-07-2024",
+    "sentence": "Do you need help with your luggage?",
+    "prosody": "Do you *NEED HELP* with your *LUGGAGE*?",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Do you *NEED* *HELP* with your *LUGGAGE*?' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

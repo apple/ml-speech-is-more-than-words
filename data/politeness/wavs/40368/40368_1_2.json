@@ -1,0 +1,16 @@
+{
+    "example_id": "40368",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40368/40368_1_2.wav",
+    "duration": 3.46,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "fable",
+    "date": "13-07-2024",
+    "sentence": "Can we meet in the middle?",
+    "prosody": "Can we _meet_ in the _middle_?",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Can we _meet_ in the _middle_?' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

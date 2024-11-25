@@ -1,0 +1,16 @@
+{
+    "example_id": "40570",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40570/40570_1_3.wav",
+    "duration": 3.17,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "onyx",
+    "date": "13-07-2024",
+    "sentence": "We waited for a long time.",
+    "prosody": "We _waited_ for a _long_ time.",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'We _waited_ for a _long_ time.' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

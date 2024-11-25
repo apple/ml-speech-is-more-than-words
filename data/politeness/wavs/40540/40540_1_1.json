@@ -1,0 +1,16 @@
+{
+    "example_id": "40540",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40540/40540_1_1.wav",
+    "duration": 3.48,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "echo",
+    "date": "13-07-2024",
+    "sentence": "Our priorities seem different.",
+    "prosody": "Our priorities _seem_ different.",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Our priorities _seem_ different.' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

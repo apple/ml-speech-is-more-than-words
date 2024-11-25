@@ -1,0 +1,16 @@
+{
+    "example_id": "40496",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40496/40496_2_4.wav",
+    "duration": 2.83,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "nova",
+    "date": "13-07-2024",
+    "sentence": "Put away your phone.",
+    "prosody": "Put *AWAY YOUR PHONE*.",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Put *AWAY* *YOUR* *PHONE*.' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

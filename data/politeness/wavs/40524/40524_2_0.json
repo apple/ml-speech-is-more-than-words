@@ -1,0 +1,16 @@
+{
+    "example_id": "40524",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40524/40524_2_0.wav",
+    "duration": 3.05,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "alloy",
+    "date": "13-07-2024",
+    "sentence": "We are closing soon.",
+    "prosody": "We are *CLOSING* soon.",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'We are *CLOSING* soon.' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

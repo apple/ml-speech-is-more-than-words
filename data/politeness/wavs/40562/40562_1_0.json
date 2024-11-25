@@ -1,0 +1,16 @@
+{
+    "example_id": "40562",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40562/40562_1_0.wav",
+    "duration": 3.7,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "alloy",
+    "date": "13-07-2024",
+    "sentence": "We have to discuss the seating arrangement.",
+    "prosody": "We have to _discuss_ the seating arrangement.",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'We have to _discuss_ the seating arrangement.' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

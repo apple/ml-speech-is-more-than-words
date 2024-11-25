@@ -1,0 +1,16 @@
+{
+    "example_id": "40505",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40505/40505_2_0.wav",
+    "duration": 4.37,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "alloy",
+    "date": "13-07-2024",
+    "sentence": "Please hold your questions until the end.",
+    "prosody": "Please *HOLD* your questions until the *END*.",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Please *HOLD* your questions until the *END*.' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

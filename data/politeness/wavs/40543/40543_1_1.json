@@ -1,0 +1,16 @@
+{
+    "example_id": "40543",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40543/40543_1_1.wav",
+    "duration": 2.54,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "echo",
+    "date": "13-07-2024",
+    "sentence": "Stay focused.",
+    "prosody": "Stay _focused_.",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Stay _focused_.' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

@@ -1,0 +1,16 @@
+{
+    "example_id": "40434",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40434/40434_2_5.wav",
+    "duration": 3.58,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "shimmer",
+    "date": "13-07-2024",
+    "sentence": "Can I get a map of the city?",
+    "prosody": "Can I get a *MAP* of the city?",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Can I get a *MAP* of the city?' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

@@ -1,0 +1,16 @@
+{
+    "example_id": "40394",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40394/40394_1_3.wav",
+    "duration": 2.3,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "onyx",
+    "date": "13-07-2024",
+    "sentence": "Pay attention.",
+    "prosody": "_Pay_ attention.",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 '_Pay_ attention.' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

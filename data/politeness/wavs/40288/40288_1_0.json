@@ -1,0 +1,16 @@
+{
+    "example_id": "40288",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40288/40288_1_0.wav",
+    "duration": 2.64,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "alloy",
+    "date": "13-07-2024",
+    "sentence": "Will you take the stand?",
+    "prosody": "Will you _take_ the _stand_?",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Will you _take_ the _stand_?' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

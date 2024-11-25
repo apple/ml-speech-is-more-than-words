@@ -1,0 +1,16 @@
+{
+    "example_id": "40280",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40280/40280_2_3.wav",
+    "duration": 3.46,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "onyx",
+    "date": "13-07-2024",
+    "sentence": "Can you give more examples?",
+    "prosody": "Can you give *MORE* examples?",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Can you give *MORE* examples?' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

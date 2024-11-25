@@ -1,0 +1,16 @@
+{
+    "example_id": "40207",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40207/40207_1_5.wav",
+    "duration": 2.45,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "shimmer",
+    "date": "13-07-2024",
+    "sentence": "Please stay on the line.",
+    "prosody": "Please _stay_ on the line.",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Please _stay_ on the line.' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

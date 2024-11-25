@@ -1,0 +1,16 @@
+{
+    "example_id": "40491",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40491/40491_2_0.wav",
+    "duration": 3.89,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "alloy",
+    "date": "13-07-2024",
+    "sentence": "Make sure your homework is complete.",
+    "prosody": "*MAKE SURE* your homework is *COMPLETE*.",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 '*MAKE* *SURE* your homework is *COMPLETE*.' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

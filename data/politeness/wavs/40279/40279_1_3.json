@@ -1,0 +1,16 @@
+{
+    "example_id": "40279",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40279/40279_1_3.wav",
+    "duration": 2.86,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "onyx",
+    "date": "13-07-2024",
+    "sentence": "Were you expecting questions?",
+    "prosody": "Were you _expecting_ questions?",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Were you _expecting_ questions?' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

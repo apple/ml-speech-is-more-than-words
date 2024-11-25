@@ -1,0 +1,16 @@
+{
+    "example_id": "40363",
+    "case_id": "1",
+    "path": "data/pragmatic_prosody/wavs/40363/40363_1_4.wav",
+    "duration": 4.37,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "nova",
+    "date": "13-07-2024",
+    "sentence": "Can you bring refreshments for the event?",
+    "prosody": "Can you _bring_ refreshments for the event?",
+    "prompt": "\ud83d\ude0a\ud83d\ude47\ud83c\udf38 'Can you _bring_ refreshments for the event?' \ud83d\ude0a\ud83d\ude47\ud83c\udf38",
+    "category": "pragmatic_prosody",
+    "attribute": "Polite"
+}

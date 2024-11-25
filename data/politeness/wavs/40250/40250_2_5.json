@@ -1,0 +1,16 @@
+{
+    "example_id": "40250",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40250/40250_2_5.wav",
+    "duration": 3.84,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "shimmer",
+    "date": "13-07-2024",
+    "sentence": "Can you please put your shoes on?",
+    "prosody": "Can you *PLEASE* put your shoes on?",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Can you *PLEASE* put your shoes on?' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}

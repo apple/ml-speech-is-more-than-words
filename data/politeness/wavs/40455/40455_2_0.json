@@ -1,0 +1,16 @@
+{
+    "example_id": "40455",
+    "case_id": "2",
+    "path": "data/pragmatic_prosody/wavs/40455/40455_2_0.wav",
+    "duration": 2.45,
+    "sampling_rate": 24000,
+    "system": "openai",
+    "model": "tts-1-hd",
+    "voice": "alloy",
+    "date": "13-07-2024",
+    "sentence": "Get in line.",
+    "prosody": "Get *IN* line!",
+    "prompt": "\ud83d\ude21\ud83d\ude20\ud83d\ude24 'Get *IN* line!' \ud83d\ude21\ud83d\ude20\ud83d\ude24",
+    "category": "pragmatic_prosody",
+    "attribute": "Impolite"
+}
